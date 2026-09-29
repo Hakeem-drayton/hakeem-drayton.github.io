@@ -1,0 +1,77 @@
+.custom-creation{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid beige;
+    border-radius: 8px;
+    padding: 1.5rem;
+    
+}
+
+
+    
+
+.custom-bord{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid beige;
+    border-radius: 8px;
+    padding: 1.5rem;
+    left: 30px;
+    padding: 1.5rem;
+
+  
+
+}
+@media screen and (min-width: 576px){
+    .custom-creation{
+        padding: 1rem;
+        font-size: 12px;
+    }
+    .custom-bord{
+        padding: 1rem;
+        font-size: 12px;
+
+    }
+    
+}
+@media screen and (min-width: 768px){
+    .custom-creation{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(161, 161, 161);
+    border-radius: 10px;
+    padding: 2 rem;
+    left: 30px;
+    padding: 2 rem;
+    font-size: 35px;
+    }
+    .custom-bord{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid beige;
+    border-radius: 10px;
+    padding: 2 rem;
+    left: 30px;
+    padding: 2 rem;
+    font-size: 35px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .custom-bord{
+    background-color: rgb(144, 79, 79);
+    border: 2px solid rgb(143, 143, 99);
+    border-radius: 25px;
+    padding: 3.5 rem;
+    left: 30px;
+    padding: 3.5rem;
+    font-size: 45px;
+    }
+    .custom-creation{
+    background-color: rgb(144, 79, 79);
+    border: 2px solid rgb(143, 143, 99);
+    border-radius: 25px;
+    padding: 3.5 rem;
+    left: 30px;
+    padding: 3.5rem;
+    font-size: 45px;
+    }
+}
+    
+
